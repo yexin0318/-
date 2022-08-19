@@ -40,3 +40,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+- 名称：GitHub API 请求
+  用途：octokit/request-action@v2.1.0
+
