@@ -43,3 +43,6 @@ jobs:
 - 名称：GitHub API 请求
   用途：octokit/request-action@v2.1.0
 
+- 名称：GitHub GraphQL API 查询
+  用途：octokit/graphql-action@v2.2.1
+
